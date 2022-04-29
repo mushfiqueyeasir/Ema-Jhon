@@ -1,0 +1,35 @@
+.sale {
+    color: #FF9900;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.bannerTitle {
+    color: #1C2B35;
+    font-size: calc(1.375rem + 2vw) !important;
+    font-weight: 700;
+    line-height: calc(3.5rem + 2vw) !important;
+}
+
+.description {
+    color: #2A414F;
+    font-size: calc(1rem + 0.5vw) !important;
+    font-weight: 400;
+
+}
+
+.shopNow {
+    text-decoration: none;
+    color: #0E161A;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: #FF9900;
+    border: 0;
+    border-radius: 5px;
+}
+
+.shopNow:hover {
+    text-decoration: none;
+    color: #0E161A;
+    background-color: #eead4b;
+}
