@@ -1,0 +1,44 @@
+.card-body2{
+    padding: 1rem 1rem;   
+}
+.card-text{
+    margin: 0;
+}
+.title{
+    font-size: 21px;
+}
+.price{
+    font-size: 17px;
+}
+.card-footer{
+    background: #FFE0B3; 
+    padding: 0;
+    border-radius: 100px;
+    
+}
+.card-footer button{
+    margin: 0;
+    color: #0E161A;
+    font-size: 15px;
+    font-weight: 600;
+    background: #FFE0B3; 
+    border: 0;
+    width: 100%;
+    padding: 10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  
+}
+.card-footer button:hover{
+    background: #ff9900;
+}
+.card-footer p{
+    margin: 0;
+}
+
+
+
+.card{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}

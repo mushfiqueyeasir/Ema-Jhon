@@ -1,0 +1,27 @@
+.cart-container{
+    background: rgba(255, 153, 0, 0.3);
+}
+.title{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.sticky-lgg-top{
+   
+    position: unset;
+    top: unset;
+} 
+
+@media only screen and (min-width: 992px) {
+    .sticky-lgg-top{
+        position: -webkit-sticky;
+        position: sticky;
+        top: 75px;
+        z-index: 1020;
+    } 
+  }
+  span{
+      display: none;
+  }
+
+
